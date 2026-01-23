@@ -1,0 +1,7 @@
+Game List
+---------
+1. Quiz Game
+2. Choose Your Own Adventure
+3. Number Guesser
+4. Password Manager
+5. Rock Paper Scissors
